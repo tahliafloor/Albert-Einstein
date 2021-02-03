@@ -1,0 +1,122 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.acheivements {
+    display: flex;
+    justify-content: center;
+    color: #5b87cf;
+    border: 3px ridge #8d5ae0;
+    padding: 10px;
+    background-color: #eaffdb;
+}
+
+.ae {
+    display: flex;
+    justify-content: center;
+
+}
+
+.navpics {
+    background-color: pink;
+    padding: 10px;
+}
+
+.navquotes {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.navsuccesses {
+    background-color: #5b87cf;
+    padding: 10px;
+}
+
+.top-row {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.img2 {
+    height: 200px;
+    width: 230px;
+    border-radius: 100px;
+    border: ridge #a4fcb6 5px;
+    margin: 7px;
+}
+
+.img1 {
+    height: 200px;
+    width: 250px;
+    border-radius: 100px;
+    border: ridge #a4fcb6 5px;
+    margin: 7px;
+}
+
+.q1 {
+    border: solid #ffdeb5 5px;
+    margin: 15px;
+    padding: 20px;
+    color: #9e60d1;
+    background-color: #adebff;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.img3 {
+    height: 200px;
+    width: 220px;
+    border-radius: 100px;
+    border: ridge #a4fcb6 5px;
+    margin: 7px;
+}
+
+.q2 {
+    border: solid #ffdeb5 5px;
+    margin: 15px;
+    padding: 20px;
+    color: #9e60d1;
+    background-color: #adebff;
+}
+
+.q3 {
+    border: solid #ffdeb5 5px;
+    margin: 15px;
+    padding: 20px;
+    color: #9e60d1;
+    background-color: #adebff;
+}
+
+body {
+    background-color: #ffedf8;
+}
+
+.navbar:hover {
+    background-color: #debdff;
+    padding: 15px;
+}
+
+.successes:hover {
+    background-color: #5b87cf;
+}
+
+.PnQ:hover {
+    background-color: yellow;
+}
+
+img1:hover {}
+
+img2:hover {}
+
+img3:hover {}
+
+.ae:hover {
+    background-color: #aaa7f2;
+}
